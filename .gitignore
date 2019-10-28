@@ -1,0 +1,38 @@
+core.*
+
+*.hdf5
+*.pt
+.vector_cache
+.data
+
+*.xml
+*.iml
+
+
+# vim and gedit cache:
+*.swp
+*.swo
+*.swn
+*.swl
+*~
+
+# cluster logs
+SMART_DISPATCH_LOGS/*
+
+# model params
+model/*
+params/*
+tmptrees/*
+
+# logs
+tblogs/*
+logs/*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+*.log
+

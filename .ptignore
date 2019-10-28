@@ -1,0 +1,13 @@
+*.pt
+Philly*
+exp_logic
+*.diff
+data/data_scan
+data/scan
+data/propositionallogic_exp1
+data/mnli
+data/SST
+data/penn
+data/listops
+data/treebank_proc.conllu
+data/test_proc.conllu
