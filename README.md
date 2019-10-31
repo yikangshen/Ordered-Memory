@@ -1,6 +1,6 @@
 # Ordered Memory
 
-This repository contains the code used for [Ordered Memory](https://arxiv.org).
+This repository contains the code used for [Ordered Memory](https://arxiv.org/abs/1910.13466).
 
 The code comes with instructions for experiments:
 + [propositional logic experiments](https://www.aclweb.org/anthology/W15-4002.pdf)
