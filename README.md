@@ -12,13 +12,17 @@ The code comes with instructions for experiments:
 If you use this code or our results in your research, please cite as appropriate:
 
 ```
-@inproceedings{shen2019ordered,
-  title={Ordered Memory},
-  author={Shen, Yikang and Tan, Shawn and Hosseini, Seyedarian 
-          and Lin, Zhouhan and Sordoni, Alessandro and Courville, Aaron},
-  booktitle={Proceedings of the NeurIPS-2019},
-  year={2019}
+@incollection{NIPS2019_8748,
+title = {Ordered Memory},
+author = {Shen, Yikang and Tan, Shawn and Hosseini, Arian and Lin, Zhouhan and Sordoni, Alessandro and Courville, Aaron C},
+booktitle = {Advances in Neural Information Processing Systems 32},
+editor = {H. Wallach and H. Larochelle and A. Beygelzimer and F. d\textquotesingle Alch\'{e}-Buc and E. Fox and R. Garnett},
+pages = {5038--5049},
+year = {2019},
+publisher = {Curran Associates, Inc.},
+url = {http://papers.nips.cc/paper/8748-ordered-memory.pdf}
 }
+
 ```
 
 ## Software Requirements
