@@ -214,7 +214,7 @@ def generate_parse(data_iter):
         print()
 
     print('Cropped: %d, Total: %d' % (crop_count, total_count))
-    evalb(pred_tree_list, targ_tree_list, evalb_path="../EVALB")
+    evalb(pred_tree_list, targ_tree_list, evalb_path="EVALB")
 
 
 if __name__ == "__main__":

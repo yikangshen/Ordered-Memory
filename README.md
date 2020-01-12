@@ -41,5 +41,5 @@ Python 3, PyTorch 1.2, and torchtext are required for the current codebase.
 
 ### SST
 
-+ `python -u main.py --subtrees --cuda --name sentiment.pt --glove/--elmo (--fine-grained)`
++ `python -u sentiment.py --subtrees --cuda --name sentiment.pt --glove/--elmo (--fine-grained)`
 
